@@ -6,7 +6,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturd
 
 ## Installation
 
-İlk başta projeyi github üzerinden klonladım.
+İlk başta projeyi github üzerinden clonladım.
 
 ```bash
 git clone https://github.com/ismaildemir10/kodluyoruzilkrepo.git
@@ -14,7 +14,7 @@ git clone https://github.com/ismaildemir10/kodluyoruzilkrepo.git
 
 ## Usage
 
-Projeyi cloneladıktan sonra Visual Studio Code programında açıtım.
+Projeyi cloneladıktan sonra Visual Studio Code programında açtım.
 
 ## Contributing
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
